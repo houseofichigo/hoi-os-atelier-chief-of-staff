@@ -1,0 +1,12 @@
+.DS_Store
+__pycache__/
+*.pyc
+.env
+.env.*
+.venv/
+venv/
+.idea/
+.vscode/
+05-outils/generer-le-corpus/sortie/
+# votre dossier de travail ne doit pas être versionné ici
+travail/

@@ -1,0 +1,344 @@
+{
+  "sources": [
+    {
+      "identifiant": "src-0001",
+      "nom_origine": "Al Rawiya - suite à notre échange.eml",
+      "chemin": "sources/gmail/Al Rawiya - suite à notre échange.eml",
+      "provenance": "gmail",
+      "date_document": "2026-10-07",
+      "statut": "lu",
+      "raison": "",
+      "passages": 8
+    },
+    {
+      "identifiant": "src-0002",
+      "nom_origine": "Demande copie facture.eml",
+      "chemin": "sources/gmail/Demande copie facture.eml",
+      "provenance": "gmail",
+      "date_document": "2026-10-08",
+      "statut": "lu",
+      "raison": "",
+      "passages": 6
+    },
+    {
+      "identifiant": "src-0003",
+      "nom_origine": "Fwd_ outils autorisés.eml",
+      "chemin": "sources/gmail/Fwd_ outils autorisés.eml",
+      "provenance": "gmail",
+      "date_document": "2026-10-06",
+      "statut": "lu",
+      "raison": "",
+      "passages": 8
+    },
+    {
+      "identifiant": "src-0004",
+      "nom_origine": "Proposition signée.eml",
+      "chemin": "sources/gmail/Proposition signée.eml",
+      "provenance": "gmail",
+      "date_document": "2026-10-02",
+      "statut": "lu",
+      "raison": "",
+      "passages": 6
+    },
+    {
+      "identifiant": "src-0005",
+      "nom_origine": "Re_ Re_ Atelier - participants.eml",
+      "chemin": "sources/gmail/Re_ Re_ Atelier - participants.eml",
+      "provenance": "gmail",
+      "date_document": "2026-10-05",
+      "statut": "lu",
+      "raison": "",
+      "passages": 10
+    },
+    {
+      "identifiant": "src-0006",
+      "nom_origine": "Re_ facture août Corvelle.eml",
+      "chemin": "sources/gmail/Re_ facture août Corvelle.eml",
+      "provenance": "gmail",
+      "date_document": "2026-10-02",
+      "statut": "lu",
+      "raison": "",
+      "passages": 7
+    },
+    {
+      "identifiant": "src-0007",
+      "nom_origine": "URGENT factures.eml",
+      "chemin": "sources/gmail/URGENT factures.eml",
+      "provenance": "gmail",
+      "date_document": "2026-10-08",
+      "statut": "lu",
+      "raison": "",
+      "passages": 6
+    },
+    {
+      "identifiant": "src-0008",
+      "nom_origine": "Appel Khalid.ics",
+      "chemin": "sources/agenda/Appel Khalid.ics",
+      "provenance": "agenda",
+      "date_document": "2026-10-16",
+      "statut": "lu",
+      "raison": "",
+      "passages": 1
+    },
+    {
+      "identifiant": "src-0009",
+      "nom_origine": "Atelier Ardelis.ics",
+      "chemin": "sources/agenda/Atelier Ardelis.ics",
+      "provenance": "agenda",
+      "date_document": "2026-10-15",
+      "statut": "lu",
+      "raison": "",
+      "passages": 1
+    },
+    {
+      "identifiant": "src-0010",
+      "nom_origine": "Réunion d'équipe.ics",
+      "chemin": "sources/agenda/Réunion d'équipe.ics",
+      "provenance": "agenda",
+      "date_document": "2026-01-05",
+      "statut": "lu",
+      "raison": "",
+      "passages": 1
+    },
+    {
+      "identifiant": "src-0011",
+      "nom_origine": "agenda semaine 12-16 oct.ics",
+      "chemin": "sources/agenda/agenda semaine 12-16 oct.ics",
+      "provenance": "agenda",
+      "date_document": "2026-10-13",
+      "statut": "lu",
+      "raison": "",
+      "passages": 10
+    },
+    {
+      "identifiant": "src-0012",
+      "nom_origine": "invite.ics",
+      "chemin": "sources/agenda/invite.ics",
+      "provenance": "agenda",
+      "date_document": "2026-10-09",
+      "statut": "lu",
+      "raison": "",
+      "passages": 1
+    },
+    {
+      "identifiant": "src-0013",
+      "nom_origine": "Spark - Découverte Al Rawiya.md",
+      "chemin": "sources/spark/Spark - Découverte Al Rawiya.md",
+      "provenance": "spark",
+      "date_document": "inconnue",
+      "statut": "lu",
+      "raison": "",
+      "passages": 19
+    },
+    {
+      "identifiant": "src-0014",
+      "nom_origine": "Spark - Kickoff Transports Ardelis.md",
+      "chemin": "sources/spark/Spark - Kickoff Transports Ardelis.md",
+      "provenance": "spark",
+      "date_document": "inconnue",
+      "statut": "lu",
+      "raison": "",
+      "passages": 23
+    },
+    {
+      "identifiant": "src-0015",
+      "nom_origine": "corvelle_copil_0710.vtt",
+      "chemin": "sources/spark/corvelle_copil_0710.vtt",
+      "provenance": "spark",
+      "date_document": "2026-10-07",
+      "statut": "lu",
+      "raison": "",
+      "passages": 9
+    },
+    {
+      "identifiant": "src-0016",
+      "nom_origine": "memo vocal 06-10.txt",
+      "chemin": "sources/spark/memo vocal 06-10.txt",
+      "provenance": "spark",
+      "date_document": "inconnue",
+      "statut": "lu",
+      "raison": "",
+      "passages": 6
+    },
+    {
+      "identifiant": "src-0017",
+      "nom_origine": "notes reunion equipe 05-10.docx",
+      "chemin": "sources/spark/notes reunion equipe 05-10.docx",
+      "provenance": "spark",
+      "date_document": "inconnue",
+      "statut": "lu",
+      "raison": "",
+      "passages": 17
+    },
+    {
+      "identifiant": "src-0018",
+      "nom_origine": "Corvelle F-2026-024.pdf",
+      "chemin": "sources/pennylane/Corvelle F-2026-024.pdf",
+      "provenance": "pennylane",
+      "date_document": "inconnue",
+      "statut": "lu",
+      "raison": "",
+      "passages": 22
+    },
+    {
+      "identifiant": "src-0019",
+      "nom_origine": "F-2026-026.pdf",
+      "chemin": "sources/pennylane/F-2026-026.pdf",
+      "provenance": "pennylane",
+      "date_document": "inconnue",
+      "statut": "lu",
+      "raison": "",
+      "passages": 24
+    },
+    {
+      "identifiant": "src-0020",
+      "nom_origine": "FACTURE ACOMPTE ARDELIS.pdf",
+      "chemin": "sources/pennylane/FACTURE ACOMPTE ARDELIS.pdf",
+      "provenance": "pennylane",
+      "date_document": "inconnue",
+      "statut": "lu",
+      "raison": "",
+      "passages": 23
+    },
+    {
+      "identifiant": "src-0021",
+      "nom_origine": "clients pennylane.csv",
+      "chemin": "sources/pennylane/clients pennylane.csv",
+      "provenance": "pennylane",
+      "date_document": "inconnue",
+      "statut": "lu",
+      "raison": "",
+      "passages": 3
+    },
+    {
+      "identifiant": "src-0022",
+      "nom_origine": "export pennylane 08-10.csv",
+      "chemin": "sources/pennylane/export pennylane 08-10.csv",
+      "provenance": "pennylane",
+      "date_document": "inconnue",
+      "statut": "lu",
+      "raison": "",
+      "passages": 10
+    },
+    {
+      "identifiant": "src-0023",
+      "nom_origine": "Basira one-pager.pdf",
+      "chemin": "sources/fichiers/Basira one-pager.pdf",
+      "provenance": "fichiers",
+      "date_document": "inconnue",
+      "statut": "lu",
+      "raison": "",
+      "passages": 12
+    },
+    {
+      "identifiant": "src-0024",
+      "nom_origine": "Basira tarifs 2026.xlsx",
+      "chemin": "sources/fichiers/Basira tarifs 2026.xlsx",
+      "provenance": "fichiers",
+      "date_document": "inconnue",
+      "statut": "lu",
+      "raison": "",
+      "passages": 9
+    },
+    {
+      "identifiant": "src-0025",
+      "nom_origine": "Brief Ardelis.md",
+      "chemin": "sources/fichiers/Brief Ardelis.md",
+      "provenance": "fichiers",
+      "date_document": "inconnue",
+      "statut": "lu",
+      "raison": "",
+      "passages": 6
+    },
+    {
+      "identifiant": "src-0026",
+      "nom_origine": "Organigramme Al Rawiya.pdf",
+      "chemin": "sources/fichiers/Organigramme Al Rawiya.pdf",
+      "provenance": "fichiers",
+      "date_document": "inconnue",
+      "statut": "lu",
+      "raison": "",
+      "passages": 9
+    },
+    {
+      "identifiant": "src-0027",
+      "nom_origine": "Outils autorises IT.pdf",
+      "chemin": "sources/fichiers/Outils autorises IT.pdf",
+      "provenance": "fichiers",
+      "date_document": "inconnue",
+      "statut": "lu",
+      "raison": "",
+      "passages": 19
+    },
+    {
+      "identifiant": "src-0028",
+      "nom_origine": "Proposition Ardelis v1.docx",
+      "chemin": "sources/fichiers/Proposition Ardelis v1.docx",
+      "provenance": "fichiers",
+      "date_document": "inconnue",
+      "statut": "lu",
+      "raison": "",
+      "passages": 21
+    },
+    {
+      "identifiant": "src-0029",
+      "nom_origine": "Proposition Ardelis v2 SIGNEE.pdf",
+      "chemin": "sources/fichiers/Proposition Ardelis v2 SIGNEE.pdf",
+      "provenance": "fichiers",
+      "date_document": "inconnue",
+      "statut": "lu",
+      "raison": "",
+      "passages": 26
+    },
+    {
+      "identifiant": "src-0030",
+      "nom_origine": "al rawiya notes site web.txt",
+      "chemin": "sources/fichiers/al rawiya notes site web.txt",
+      "provenance": "fichiers",
+      "date_document": "inconnue",
+      "statut": "lu",
+      "raison": "",
+      "passages": 2
+    },
+    {
+      "identifiant": "src-0031",
+      "nom_origine": "note de frais Lyon.pdf",
+      "chemin": "sources/fichiers/note de frais Lyon.pdf",
+      "provenance": "fichiers",
+      "date_document": "inconnue",
+      "statut": "lu",
+      "raison": "",
+      "passages": 21
+    },
+    {
+      "identifiant": "src-0032",
+      "nom_origine": "participants Ardelis.xlsx",
+      "chemin": "sources/fichiers/participants Ardelis.xlsx",
+      "provenance": "fichiers",
+      "date_document": "inconnue",
+      "statut": "lu",
+      "raison": "",
+      "passages": 15
+    },
+    {
+      "identifiant": "src-0033",
+      "nom_origine": "programme atelier brouillon.docx",
+      "chemin": "sources/fichiers/programme atelier brouillon.docx",
+      "provenance": "fichiers",
+      "date_document": "inconnue",
+      "statut": "lu",
+      "raison": "",
+      "passages": 12
+    },
+    {
+      "identifiant": "src-0034",
+      "nom_origine": "scan_0013.pdf",
+      "chemin": "sources/fichiers/scan_0013.pdf",
+      "provenance": "fichiers",
+      "date_document": "inconnue",
+      "statut": "trou",
+      "raison": "aucune couche texte (scan) — OCR nécessaire",
+      "passages": 0
+    }
+  ]
+}

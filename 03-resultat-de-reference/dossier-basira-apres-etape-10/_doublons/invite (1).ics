@@ -1,0 +1,35 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Basira Conseil//Demo FICTIF//FR
+X-WR-CALNAME:Yasmine Haddad
+BEGIN:VTIMEZONE
+TZID:Europe/Paris
+BEGIN:DAYLIGHT
+TZOFFSETFROM:+0100
+TZOFFSETTO:+0200
+TZNAME:CEST
+DTSTART:19700329T020000
+RRULE:FREQ=YEARLY;BYMONTH=3;BYDAY=-1SU
+END:DAYLIGHT
+BEGIN:STANDARD
+TZOFFSETFROM:+0200
+TZOFFSETTO:+0100
+TZNAME:CET
+DTSTART:19701025T030000
+RRULE:FREQ=YEARLY;BYMONTH=10;BYDAY=-1SU
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:ardelis-prep-20261009@basira-conseil.example
+DTSTAMP:20261008T060000Z
+DTSTART;TZID=Europe/Paris:20261009T100000
+DTEND;TZID=Europe/Paris:20261009T103000
+SUMMARY:Transports Ardelis – appel de préparation de l'atelier
+LOCATION:Visio
+DESCRIPTION:Caler la logistique et les outils pour le 15 octobre. (Données fictives — démonstration Basira Conseil.)
+ORGANIZER;CN=Yasmine Haddad:mailto:yasmine.haddad@basira-conseil.example
+ATTENDEE;CN=Sarah Martin:mailto:sarah.martin@transports-ardelis.example
+ATTENDEE;CN=Julien Morel:mailto:julien.morel@transports-ardelis.example
+ATTENDEE;CN=Inès Rocher:mailto:ines.rocher@basira-conseil.example
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,4 @@
+﻿Client;Ville;Pays;Contact facturation;Email facturation;Conditions de paiement;Régime TVA
+Maison Corvelle;Beaune;France;Nadia Belkacem;n.belkacem@maison-corvelle.example;30 jours date de facture;TVA 20 %
+Dar Al Rimal;Dubaï;Émirats arabes unis;Youssef Karam;y.karam@daralrimal.example;30 jours date de facture;Exonération (prestation hors UE)
+Transports Ardelis;Saint-Priest;France;Service comptabilité;compta@transports-ardelis.example;Acompte à réception, solde 30 jours;TVA 20 %

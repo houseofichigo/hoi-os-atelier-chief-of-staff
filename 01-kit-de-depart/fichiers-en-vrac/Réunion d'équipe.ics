@@ -1,0 +1,39 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Basira Conseil//Demo FICTIF//FR
+X-WR-CALNAME:Yasmine Haddad
+BEGIN:VTIMEZONE
+TZID:Europe/Paris
+BEGIN:DAYLIGHT
+TZOFFSETFROM:+0100
+TZOFFSETTO:+0200
+TZNAME:CEST
+DTSTART:19700329T020000
+RRULE:FREQ=YEARLY;BYMONTH=3;BYDAY=-1SU
+END:DAYLIGHT
+BEGIN:STANDARD
+TZOFFSETFROM:+0200
+TZOFFSETTO:+0100
+TZNAME:CET
+DTSTART:19701025T030000
+RRULE:FREQ=YEARLY;BYMONTH=10;BYDAY=-1SU
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:equipe-hebdo@basira-conseil.example
+DTSTAMP:20261008T060000Z
+DTSTART;TZID=Europe/Paris:20260105T093000
+DTEND;TZID=Europe/Paris:20260105T103000
+SUMMARY:Réunion d'équipe Basira
+LOCATION:Bureau Paris 10e
+DESCRIPTION:Point hebdomadaire : missions, pipeline, facturation. (Données fictives — démonstration Basira Conseil.)
+RRULE:FREQ=WEEKLY;BYDAY=MO
+ORGANIZER;CN=Yasmine Haddad:mailto:yasmine.haddad@basira-conseil.example
+ATTENDEE;CN=Inès Rocher:mailto:ines.rocher@basira-conseil.example
+ATTENDEE;CN=Mehdi Saïd:mailto:mehdi.said@basira-conseil.example
+ATTENDEE;CN=Paul Lefèvre:mailto:paul.lefevre@basira-conseil.example
+ATTENDEE;CN=Amina Diallo:mailto:amina.diallo@basira-conseil.example
+ATTENDEE;CN=Hugo Bernard:mailto:hugo.bernard@basira-conseil.example
+ATTENDEE;CN=Léa Fontaine:mailto:lea.fontaine@basira-conseil.example
+END:VEVENT
+END:VCALENDAR
