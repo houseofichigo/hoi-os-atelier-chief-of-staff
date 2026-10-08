@@ -44,7 +44,7 @@ def main() -> int:
         if not (ROOT / relative).is_file():
             fail(errors, f"fichier requis absent : {relative}")
 
-    if any(path.is_dir() for path in ROOT.rglob(".git")):
+    if any(path.is_dir() and path != ROOT / ".git" for path in ROOT.rglob(".git")):
         fail(errors, "un dépôt .git imbriqué est présent")
 
     oversized = [path.relative_to(ROOT) for path in ROOT.rglob("*") if path.is_file() and path.stat().st_size > 25 * 1024 * 1024]
@@ -81,7 +81,13 @@ def main() -> int:
             print(f"- {error}")
         return 1
 
-    files = sum(1 for path in ROOT.rglob("*") if path.is_file())
+    files = sum(
+        1
+        for path in ROOT.rglob("*")
+        if path.is_file()
+        and ".git" not in path.relative_to(ROOT).parts
+        and "__pycache__" not in path.relative_to(ROOT).parts
+    )
     print(f"VALIDATION OK — {files} fichiers, corpus fictif et structure communautaire vérifiés.")
     return 0
 
